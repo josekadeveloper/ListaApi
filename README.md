@@ -29,7 +29,7 @@ para ejecutar la app
 
   * SHOW DATABASE:  (http://localhost:8080/h2-console/)
 ```sh
-Para ver la base de datos de la API tendremos que poner la URL que se encuentra en el fichero de configuración
-application.yml situado en la carpeta resources, donde tambien aparecen el usuario y contraseña para acceder a
-la base de datos
+Para ver la base de datos de la API tendremos que poner la URL que se encuentra en el fichero
+de configuración application.yml situado en la carpeta resources, donde tambien aparecen el
+usuario y contraseña para acceder a la base de datos
 ```
