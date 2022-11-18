@@ -1,6 +1,7 @@
 # ListaApi
 
-API REST desarrollado con Spring, Maven y Java 11, que va a recibir como dato de entrada una lista de números del 1 al 100 y devolverá un endpoint con la suma de todos los elementos de la lista.
+API REST desarrollado con Spring, Maven y Java 11, que va a recibir como dato de entrada una lista de 100 números
+comprendidos entre (1 - 100) ambos inclusive y devolverá un endpoint con la suma de todos los elementos de la lista.
 ### Features
 
 ![app](/img/Api.gif)
